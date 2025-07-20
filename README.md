@@ -19,21 +19,21 @@ Demand increased noticeably toward the end of the year, likely due to holiday se
 
 ## What’s Included
 
-1 interactive dashboard
+• 1 interactive dashboard
 
-5 individual Tableau sheets:
+• 5 individual Tableau sheets:
 
-Price by Zip Code , 
+◦ Price by Zip Code , 
 
-Price by Zip Code (Map View), 
+◦ Price by Zip Code (Map View), 
 
-Revenue for Year, 
+◦ Revenue for Year, 
 
-Average Price per Bedroom,
+◦ Average Price per Bedroom,
 
-Distinct Count of Bedroom Listings
+◦ Distinct Count of Bedroom Listings
 
-Visual filters and interactive components for user exploration
+• Visual filters and interactive components for user exploration
 
 ## What are the Tools that are used ?
 Tableau Desktop
