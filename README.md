@@ -22,6 +22,7 @@ Demand increased noticeably toward the end of the year, likely due to holiday se
 1 interactive dashboard
 
 5 individual Tableau sheets:
+
 Price by Zip Code , 
 
 Price by Zip Code (Map View), 
