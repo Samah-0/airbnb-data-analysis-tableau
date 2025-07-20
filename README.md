@@ -1,4 +1,4 @@
-## airbnb-data-analysis-tableau
+## AirBnB-Data-Analysis-Tableau
 
 By Samah Mohammed Ahmed
 
@@ -7,6 +7,7 @@ By Samah Mohammed Ahmed
 This project explores an Airbnb dataset using Tableau to analyze key metrics such as pricing by zip code, revenue trends, and listing characteristics. The goal is to discover insights that highlight patterns in demand, pricing, and competition among different types of properties.
 
 The dashboard was created as part of a data visualization learning journey with Alex the analyst on Youtube using real-world datasets from Kaggle.
+**View the interactive dashboard on [Tableau Public](https://public.tableau.com/app/profile/samah.mohammed1189/viz/FullAirBnBProject_17530333141330/Dashboard1?publish=yes)**
 
 ## The Key Insights
 Listings with 5–6 bedrooms gived the highest average income, indicating strong earning potential for larger places.
