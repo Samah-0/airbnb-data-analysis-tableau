@@ -17,7 +17,8 @@ Due to lower competition, larger properties present a strong opportunity for hos
 
 Demand increased noticeably toward the end of the year, likely due to holiday seasons and increased travel activity.
 
-##What’s Included
+## What’s Included
+
 1 interactive dashboard
 
 5 individual Tableau sheets:
